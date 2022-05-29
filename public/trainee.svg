@@ -1,0 +1,25 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="24" fill="black"/>
+<rect x="8" y="8" width="240" height="240" rx="16" fill="#EBEAE6"/>
+<rect x="38" y="38" width="180" height="180" rx="24" fill="black"/>
+<rect x="45" y="45" width="165" height="165" rx="16" fill="#2BB4F3"/>
+<ellipse cx="127.5" cy="128" rx="59.5" ry="71" fill="black"/>
+<ellipse cx="128" cy="128" rx="53" ry="63" fill="#FFCCAA"/>
+<ellipse cx="64" cy="128" rx="11" ry="16" fill="black"/>
+<ellipse cx="67.5" cy="128" rx="9.5" ry="14" fill="#FFCCAA"/>
+<ellipse cx="192" cy="128" rx="11" ry="16" fill="black"/>
+<ellipse cx="186.5" cy="128" rx="9.5" ry="14" fill="#FFCCAA"/>
+<rect x="68" y="52" width="119" height="47" rx="23.5" fill="black"/>
+<rect x="72" y="57" width="112" height="38" rx="19" fill="#F9DC6A"/>
+<circle cx="105" cy="123" r="15" fill="black"/>
+<circle cx="105" cy="123" r="15" fill="black"/>
+<circle cx="151" cy="123" r="15" fill="black"/>
+<circle cx="105" cy="123" r="12" fill="black"/>
+<circle cx="105" cy="123" r="12" fill="#2BB4F3"/>
+<circle cx="151" cy="123" r="12" fill="black"/>
+<circle cx="151" cy="123" r="12" fill="#2BB4F3"/>
+<rect width="19" height="4" transform="matrix(1 0 0 -1 117 125)" fill="black"/>
+<rect width="19" height="4" transform="matrix(1 0 0 -1 141 108)" fill="black"/>
+<rect width="19" height="4" transform="matrix(1 0 0 -1 95 108)" fill="#F9DC6A"/>
+<rect width="19" height="4" transform="matrix(1 0 0 -1 95 108)" fill="black"/>
+</svg>
